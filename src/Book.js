@@ -3,7 +3,7 @@ import React from 'react';
 const Book=(props) =>
 {
   //console.log(props);
-  //const {img, title, author} = props.book;
+  //const {img, title, author}= props.book;
   const {img, title, author} = props;
   return (
     <article className="book">

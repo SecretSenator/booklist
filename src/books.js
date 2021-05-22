@@ -11,4 +11,4 @@ export const data=[
     author:'James Clear',
     title:'Atomic Habits',
   },
-  ];
+  ] ;

@@ -13,7 +13,7 @@ function BookList()
   return(
     <section className="booklist">
     {data.map(book => {
-     // const {img, title, author}=book;
+     // const {img, title,author}=book;
       return (
         <Book key={book.id} {...book} />
       );
